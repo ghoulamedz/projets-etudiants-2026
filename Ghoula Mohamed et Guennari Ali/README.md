@@ -5,3 +5,6 @@
 Ali Guennari & Ghoula Mohamed
 # Encadrante :
 Mme Bourkhis Dalel
+# Technologies utilisés :
+Backend : Java SpringBoot, Mysql et Docker
+Frontend : Flutter
